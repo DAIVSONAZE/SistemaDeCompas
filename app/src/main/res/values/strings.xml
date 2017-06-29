@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sistema de Compras</string>
+    <string name="escolhaproduto">Escolha seu Produto</string>
+    <string name="CheckBoxArroz">Arroz R$ 2,69</string>
+    <string name="CheckBoxLeite">Leite R$ 5,00</string>
+    <string name="CheckBoxCarne">Carne R$ 9,70</string>
+    <string name="CheckBoxFeijao">Feijão R$ 2,30</string>
+    <string name="ButtonCompras">Total de Compras</string>
+
+</resources>
